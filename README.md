@@ -1,2 +1,1 @@
-# test_python_project
-#this is a test project
+#see all exercises here #https://learnpythonthehardway.org/book/
